@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahbaetaecu.tangerine-labs.com/sitemap.xml
